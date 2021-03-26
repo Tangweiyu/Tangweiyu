@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Tangweiyu.
 - 👀 I’m interested in Machine Learning, Data Mining, Data Analysis, Java, Python, C#, Android ...
-- 🌱 I’m currently learning machine learing, SSM framework of Java.
+- 🌱 I’m currently learning Machine Learing, SSM framework of Java.
 - 📫 My Email address is: tangweiyu2000@stu.jluzh.edu.cn
