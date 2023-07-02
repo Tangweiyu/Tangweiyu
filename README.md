@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Tangweiyu.
-- 👀 I’m interested in Data Science, Machine Learning, Deeping Learning, Java, Python, C#, Android ...
-- 🌱 I’m currently learning Data Science, Machine Learing, Deeping Learning and Java.
-- 📫 My Email address is: tangweiyu2000@stu.zcst.edu.cn
+- 👀 I’m interested in Data Science, Machine Learning, Java, Python, C#, Android ...
+- 🌱 I’m currently learning Data Science, Machine Learing and Java.
+- 📫 My Email address is: tangweiyu2000@126.com
