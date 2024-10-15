@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Tangweiyu.
-- 👀 I’m interested in Data Science, Machine Learning, Java, Python, C#, Android ...
-- 🌱 I’m currently learning Data Science, Machine Learing and Java.
+- 👀 I’m interested in Data Science (Data analysis, Machine Learning, Deep Learning), Intelligent Algorithms (Scheduling and Optimization algorithms such as GA, ABC, PSO, Jaya, HS, A*, etc.), Other such as Java, C#, Android, etc.
+- 🌱 I’m currently learning something about scheduling and the applications of deep learning algorithms.
 - 📫 My Email address is: tangweiyu2000@126.com
